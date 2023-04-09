@@ -1,6 +1,6 @@
 # **Machine Learning from Scratch by creating own ML models**
 
-This repository is dedicated to learning machine learning from scratch with Python by by only using native Python with numpy. The goal of this project is to gain a deep understanding of the fundamentals of machine learning algorithms, including how they work, how they are implemented, and how they can be applied to real-world problems.
+This repository is dedicated to learning machine learning from scratch with Python by only using native Python with numpy. The goal of this project is to gain a deep understanding of the fundamentals of machine learning algorithms, including how they work, how they are implemented, and how they can be applied to real-world problems.
 
 ## Before running
     
