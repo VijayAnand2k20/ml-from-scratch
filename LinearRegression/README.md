@@ -104,4 +104,4 @@ The learning rate is a hyperparameter that controls how much we are adjusting th
 Source: <a href="https://deepai.org/machine-learning-glossary-and-terms/gradient-descent">deepai.org</a>
 </p>
 
-That's it for the theory part. Now, for the implementation part, checkout the code in `linear_regression/linear_regression.py`
+That's it for the theory part. Now, for the implementation part, checkout the code in `LinearRegression/linear_regression.py`
