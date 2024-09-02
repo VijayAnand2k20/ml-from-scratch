@@ -31,9 +31,9 @@ Since the result is a line, it can be represented by the following way.
 
 ### **Approximation**:
 
-$
+$$
 y = mx + c
-$
+$$
 
 where $m$ is the slope of the line and $c$ is the y-intercept.
 
@@ -44,9 +44,9 @@ Now, we have to come up with the values for $m$ and $c$.
 For this, we define something called a cost function. For linear regression,
 
 Mean Squared Error(MSE) = 
-$
+$$
 J(m, c) = \frac 1 N  \sum_{i=1}^{n}(y_i - (mx_i + c))^2
-$
+$$
 
 where,
 $$
