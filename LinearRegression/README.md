@@ -44,20 +44,16 @@ Now, we have to come up with the values for $m$ and $c$.
 For this, we define something called a cost function. For linear regression,
 
 Mean Squared Error(MSE) = 
-$$
-J(m, c) = \frac 1 N  \sum_{i=1}^{n}(y_i - (mx_i + c))^2
-$$
+$$J(m, c) = \frac 1 N  \sum_{i=1}^{n}(y_i - (mx_i + c))^2$$
 
 where,
-$$
-y_i=Actual\ value for\ data_i
-\\
-mx_i + c = The \ predicted\ value\ with\ the\ current\ i
-\\
-N=Number\ of\ entries\ in\ the\ dataset
-$$
+$$y_i=Actual\ value for\ data_i$$
 
-The summation of the squares of the difference between all the actual values and their predicted values and dividing the result by the total number of entries gives us the $Mean\ Squared\ Error$
+$$mx_i + c = The \ predicted\ value\ with\ the\ current\ i$$
+
+$$N=Number\ of\ entries\ in\ the\ dataset$$
+
+The summation of the squares of the difference between all the actual values and their predicted values and dividing the result by the total number of entries gives us the $$Mean\ Squared\ Error$$
 
 So, finally the cost function will return us how bad the values chosen for $m$ and $c$. And hence, we have to reduce the error as much as possible i.e,. We have to find the minimum value of this function.
 
